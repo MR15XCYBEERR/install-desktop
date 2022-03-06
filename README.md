@@ -12,3 +12,8 @@ pip install lolcat
 pip install request
 
 pip install mechanize
+
+cd install-desktop
+
+sh desktop.sh
+
