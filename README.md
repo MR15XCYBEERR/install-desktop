@@ -17,3 +17,5 @@ cd install-desktop
 
 sh desktop.sh
 
+Password : MR.15XCYBER
+
